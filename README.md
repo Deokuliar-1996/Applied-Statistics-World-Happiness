@@ -31,3 +31,6 @@ We have demonstrated various aspects in the project such as:
 3. Countries with similar happiness score tend to be in the same geographic vicinity.
 4. There are strong correlations between Happiness scores and the dependent variables as discussed earlier.
 5. We also selected the best multivariate linear regression model that can be used to predict the Happiness score.
+
+## Contributers
+© Sameer Mahajan © Harsh Deokuliar
