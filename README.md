@@ -33,4 +33,4 @@ We have demonstrated various aspects in the project such as:
 5. We also selected the best multivariate linear regression model that can be used to predict the Happiness score.
 
 ## Contributers
-© Sameer Mahajan © Harsh Deokuliar
+© Harsh Deokuliar © Sameer Mahajan
